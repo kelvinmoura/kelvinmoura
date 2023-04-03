@@ -3,11 +3,6 @@
 - 👯 Trabalhando atualmente na empresa <a href="https://www.linkedin.com/company/koderatec/">Kodera Tecnologia</a>.
 - 📫 Contate-me no email: kelvinestra@gmail.com
 
-<div>
-  <a href="https://github.com/kelvinmoura">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvinmoura&count_private=true&include_all_commits=true">
-</div>
-
 <div style="display: inline_block;"><br>
   <img alt="Kelvin-rb" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg"/>
   <img alt="Kelvin-rails" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"/>
@@ -18,8 +13,6 @@
   <img alt="Kelvin-git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Kelvin-postgresql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>
-
-  ##
 
 <div> 
   <a href="https://www.instagram.com/kelvin_a_moura" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
