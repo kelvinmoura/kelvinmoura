@@ -1,6 +1,6 @@
 -  Olá! sou o Kelvin Alves
 - 🔭 Hoje trabalho com backend utilizando a linguagem ruby
-- 👯 Trabalhando atualmente na empresa Kodera Tecnologia.
+- 👯 Trabalhando atualmente na empresa <a href="https://www.linkedin.com/company/koderatec/">Kodera Tecnologia</a>.
 - 📫 Contate-me no email: kelvinestra@gmail.com
 
 <div>
