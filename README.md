@@ -12,6 +12,8 @@
   <img alt="Kelvin-bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img alt="Kelvin-git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Kelvin-postgresql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="Kelvin-postgresql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img alt="Kelvin-postgresql" height="50" width="50" src="https://storage.googleapis.com/zenn-user-upload/topics/ff23676bfc.png" />
 </div>
 <hr>
 <div> 
